@@ -1,5 +1,10 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        for i in range(len(nums)):
-            if nums.count(nums[i]) == 1:
-                return nums[i]
+        n = {}
+
+        for num in nums:
+            n[num] = n.get(num, 0) + 1
+
+        for num in nums:
+            if n[num] == 1:
+                return num
