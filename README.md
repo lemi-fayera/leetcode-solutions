@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0136-single-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0055-jump-game) |
 ## Manacher
 |  |
 | ------- |
