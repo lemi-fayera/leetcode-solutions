@@ -1,7 +1,6 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         result = ""
-
         def expand(left, right):
             while left >= 0 and right < len(s) and s[left] == s[right]:
                 left -= 1
@@ -19,5 +18,4 @@ class Solution:
 
             if len(even) > len(result):
                 result = even
-
         return result
