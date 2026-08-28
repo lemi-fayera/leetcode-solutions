@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
