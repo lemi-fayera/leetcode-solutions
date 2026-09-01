@@ -12,6 +12,5 @@ class Solution:
                     current.append(num)
                     backtrack(current)
                     current.pop()
-
         backtrack([])
         return result
