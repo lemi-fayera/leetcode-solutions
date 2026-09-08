@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
