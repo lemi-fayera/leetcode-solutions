@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
