@@ -1,5 +1,7 @@
 class Solution:
-    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        num1,num2=set(nums1),set(nums2)
-        return list(num1&num2)
-  
+    def intersection(self, nums1: list[int], nums2: list[int]) -> list[int]:
+        inter = []
+        for num in nums1:
+            if num in nums2 and num not in inter:
+                inter.append(num)
+        return inter
