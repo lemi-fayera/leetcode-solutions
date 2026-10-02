@@ -7,13 +7,11 @@ class MyHashMap:
     def put(self, key: int, value: int) -> None:
         index = key % self.size
 
-        # Check if key already exists
         for pair in self.map[index]:
             if pair[0] == key:
                 pair[1] = value
                 return
 
-        # Key doesn't exist, so add it
         self.map[index].append([key, value])
 
     def get(self, key: int) -> int:
