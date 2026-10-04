@@ -2,27 +2,17 @@
  * @param {string} s
  * @return {boolean}
  */
-var isPalindrome = function(s) {
-    let left = 0;
-    let right = s.length - 1;
 
-    while (left < right) {
-        // Skip non-alphanumeric characters from the left
-        while (left < right && !/[a-zA-Z0-9]/.test(s[left])) {
-            left++;
-        }
 
-        while (left < right && !/[a-zA-Z0-9]/.test(s[right])) {
-            right--;
-        }
+function clean(s) {
+  return s.toLowerCase().replace(/[^a-z0-9]/g, "");
+}
 
-        if (s[left].toLowerCase() !== s[right].toLowerCase()) {
-            return false;
-        }
-
-        left++;
-        right--;
-    }
-
+function isPalindrome(s) {
+  const cleaned = clean(s);
+  const reversed = cleaned.split("").reverse().join("");
+  if (cleaned === reversed) {
     return true;
-};
+  }
+  return false;
+}
