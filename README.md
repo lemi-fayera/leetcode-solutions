@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
