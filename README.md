@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1470-shuffle-the-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
