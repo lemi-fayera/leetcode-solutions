@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
