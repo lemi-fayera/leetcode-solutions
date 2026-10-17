@@ -1,9 +1,9 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        rans_freq = Counter(ransomNote)
-        mag_freq = Counter(magazine)
+        ransom_freq = Counter(ransomNote)
+        magazine_freq = Counter(magazine)
 
-        for char in rans_freq:
-            if rans_freq[char] > mag_freq[char]:
+        for char in ransom_freq:
+            if ransom_freq[char] > magazine_freq[char]:
                 return False
         return True
