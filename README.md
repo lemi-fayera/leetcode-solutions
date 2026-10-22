@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
