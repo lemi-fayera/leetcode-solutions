@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
