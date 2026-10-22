@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0169-majority-element) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
