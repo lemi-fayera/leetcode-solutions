@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [3146-permutation-difference-between-two-strings](https://github.com/lemi-fayera/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/lemi-fayera/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
 | ------- |
