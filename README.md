@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3146-permutation-difference-between-two-strings](https://github.com/lemi-fayera/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
