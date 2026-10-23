@@ -1,16 +1,19 @@
 class Solution:
     def dividePlayers(self, skill: list[int]) -> int:
-        sorted_skill = skill.sort()
+        skill.sort()
         left = 0
-        right = len(skill)-1
-        total = []
-        product = []
+        right = len(skill) - 1
+
+        target = skill[left] + skill[right]
+        chemistry = 0
+
         while left < right:
-            total.append(skill[right] + skill[left])
-            product.append(skill[right] * skill[left])
+            if skill[left] + skill[right] != target:
+                return -1
+
+            chemistry += skill[left] * skill[right]
+
             left += 1
             right -= 1
-        if len(set(total)) == 1:
-            return sum(product)
-        else:
-            return -1
+
+        return chemistry
