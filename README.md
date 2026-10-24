@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0763-partition-labels](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0763-partition-labels](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1903-largest-odd-number-in-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
