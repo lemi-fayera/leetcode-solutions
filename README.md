@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0881-boats-to-save-people](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0763-partition-labels](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
