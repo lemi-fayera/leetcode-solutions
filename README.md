@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3146-permutation-difference-between-two-strings](https://github.com/lemi-fayera/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Tree
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Greedy
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Backtracking
 |  |
 | ------- |
