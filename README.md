@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [2401-longest-nice-subarray](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2401-longest-nice-subarray](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2401-longest-nice-subarray](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 ## Backtracking
 |  |
 | ------- |
