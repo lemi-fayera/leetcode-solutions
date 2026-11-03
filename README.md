@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lemi-fayera/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/lemi-fayera/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2401-longest-nice-subarray](https://github.com/lemi-fayera/leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 ## Backtracking
